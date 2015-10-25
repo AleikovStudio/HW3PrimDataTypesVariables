@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

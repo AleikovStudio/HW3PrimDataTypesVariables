@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\bin\Debug\10EmployeeData.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\bin\Debug\10EmployeeData.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\obj\Debug\10EmployeeData.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\obj\Debug\10EmployeeData.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\10EmployeeData\obj\Debug\10EmployeeData.pdb

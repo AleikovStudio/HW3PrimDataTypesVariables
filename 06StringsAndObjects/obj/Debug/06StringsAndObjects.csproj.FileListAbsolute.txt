@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

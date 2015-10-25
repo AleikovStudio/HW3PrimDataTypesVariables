@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW3PrimDataTypesVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
